@@ -1,2 +1,40 @@
+<img align="right" src="FCE2.jpg" width="350" alt="Firmwere Content Extracter">
+
 # Firmware-Content-Extracter
-Extract boot.img, init_boot.img, vendor_boot.img file without downloading flash file in simple steps
+Download Boot.img, init_boot.img, vendor_boot.img without downloading flash file in simple steps
+
+# installation :- 
+
+```Install``` [termux](https://f-droid.org/repo/com.termux_1022.apk)
+```apk```
+```console
+yes | pkg update && upgrade
+```
+```console
+yes | pkg install git
+```
+
+# Installation Firmwere Content Extracter Tool :-
+
+```console
+git clone https://github.com/Ishu43642/Termux-Root-Recovery-Tool.git
+```
+
+```console
+cd Termux-Root-Recovery-Tool
+```
+```console
+chmod +x FCE2.sh
+```
+
+# Run Tool 
+
+```console
+./FCE2.sh
+```
+
+# Tool Feature 
+1.⬇️ Download 💿 Boot.img Without downloading complete rom
+2.👍 easy to use only copy past
+3.📀 img File extract to telegram 📢channel
+4. watch extracting process using 🌐link
