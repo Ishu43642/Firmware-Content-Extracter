@@ -17,11 +17,11 @@ yes | pkg install git
 # Installation Firmwere Content Extracter Tool :-
 
 ```console
-git clone https://github.com/Ishu43642/Termux-Root-Recovery-Tool.git
+git clone https://github.com/Ishu43642/Firmware-Content-Extracter.git
 ```
 
 ```console
-cd Termux-Root-Recovery-Tool
+cd Firmware-Content-Extracter
 ```
 ```console
 chmod +x FCE2.sh
@@ -35,6 +35,9 @@ chmod +x FCE2.sh
 
 # Tool Feature 
 1.⬇️ Download 💿 Boot.img Without downloading complete rom
+
 2.👍 easy to use only copy past
+
 3.📀 img File extract to telegram 📢channel
+
 4. watch extracting process using 🌐link
