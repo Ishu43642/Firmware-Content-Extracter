@@ -41,3 +41,8 @@ chmod +x FCE2.sh
 3.📀 img File extract to telegram 📢channel
 
 4. watch extracting process using 🌐link
+
+# Credit :-
+1. offici5l - for [Termux Firmware-Content-Extracter tool](https://github.com/offici5l/Firmware-Content-Extractor)
+
+2. [Mahesh Verma](https://github.com/MaheshTechnicals) - For Ui Enhancement in my tool
